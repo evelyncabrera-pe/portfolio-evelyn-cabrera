@@ -17,7 +17,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 
 # Carga de datos
-archivo= 'E:\DescargasKaggle\Bank_Customer_Data.csv'
+archivo= 'https://github.com/evelyncabrera-pe/data_learn/Bank_Customer_Data.csv'
 df = pd.read_csv(archivo, header=0, delimiter=';')
 
 # Vista general
@@ -170,7 +170,7 @@ df.describe()
 
 
 # In[ ]:
-
+Commit changes
 
 
 
