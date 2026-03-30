@@ -16,7 +16,7 @@ Este portafolio reúne proyectos end-to-end que cubren desde la exploración y l
 
 | # | Repositorio | Descripción | Stack |
 |---|-------------|-------------|-------|
-| 01 | [eda-pipeline](#) | Pipeline de análisis exploratorio: diagnóstico, limpieza y preparación de datos | Python · Pandas · Matplotlib |
+| 01 | [eda-pipeline](https://github.com/evelyncabrera-pe/eda-pipeline) | Pipeline de análisis exploratorio: diagnóstico, limpieza y preparación de datos | Python · Pandas · Matplotlib |
 | 02 | [credit-risk-score](#) | Modelo predictivo de score de morosidad para perfil bancario, con segmentación y estrategias de cobranza | Python · Scikit-learn · SQL |
 | 03 | [kpi-dashboard](#) | Dashboard de monitoreo de KPIs de cobranza con datos actualizados | Looker Studio · BigQuery · SQL |
 | 04 | [nlp-sentiment](#) | Análisis de sentimiento y grafo de palabras sobre datos no estructurados de redes sociales | Python · NLTK · NetworkX |
