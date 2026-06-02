@@ -6,9 +6,10 @@
 
 ---
 
-Profesional con más de 10 años de experiencia en banca, especializada en traducir objetivos estratégicos en soluciones analíticas de impacto: modelos de score, dashboards de cobranza y pipelines de datos orientados a riesgo crediticio.
+Profesional con más de 10 años de experiencia en banca, especializada en data strategy, riesgo crediticio y analítica aplicada al negocio.
+Transformo objetivos estratégicos en soluciones de datos de alto impacto: modelos de score, dashboards ejecutivos, pipelines de datos, monitoreo de portafolios y segmentación para estrategias de recuperación.
 
-Este portafolio reúne proyectos end-to-end que cubren desde la exploración y limpieza de datos hasta el modelamiento predictivo, monitoreo y análisis de texto.
+Este portafolio reúne proyectos end-to-end que reflejan mi enfoque: calidad de datos, trazabilidad, análisis profundo, modelamiento predictivo y storytelling ejecutivo.
 
 ---
 
@@ -16,11 +17,11 @@ Este portafolio reúne proyectos end-to-end que cubren desde la exploración y l
 
 | # | Repositorio | Descripción | Stack |
 |---|-------------|-------------|-------|
-| 01 | [eda-pipeline](https://github.com/evelyncabrera-pe/eda-pipeline) | Pipeline de análisis exploratorio: diagnóstico, limpieza y preparación de datos | Python · Pandas · Matplotlib |
-| 02 | [credit-risk-score](https://github.com/evelyncabrera-pe/credit-risk-score) | Modelo predictivo de score de morosidad para perfil bancario, con segmentación y estrategias de cobranza | Python · Scikit-learn · SQL |
-| 03 | [kpi-dashboard](https://github.com/evelyncabrera-pe/kpi-dashboard) | Dashboard de monitoreo de KPIs de un modelo con datos actualizados | Looker Studio · BigQuery · SQL |
-| 04 | [nlp-sentiment](#) | Análisis de sentimiento y grafo de palabras sobre datos no estructurados de redes sociales | Python · NLTK · NetworkX |
-| 05 | [data-utilities](#) | Datasets y scripts Python por nivel (básico, intermedio, avanzado) para análisis reutilizables | Python · CSV · Jupyter |
+| 01 | [eda-pipeline](https://github.com/evelyncabrera-pe/eda-pipeline) | Pipeline modular para diagnóstico, limpieza y preparación de datos bancarios, con enfoque en calidad y trazabilidad | Python · Pandas · Matplotlib |
+| 02 | [credit-risk-score](https://github.com/evelyncabrera-pe/credit-risk-score) | Modelo predictivo de score de morosidad con segmentación y asignación de estrategias de riesgo | Python · Scikit-learn · SQL |
+| 03 | [kpi-dashboard](https://github.com/evelyncabrera-pe/kpi-dashboard) | Dashboard ejecutivo para monitoreo de KPIs de riesgo y desempeño del modelo | Looker Studio · BigQuery · SQL |
+| 04 | [nlp-sentiment](#) | Análisis de sentimiento y grafo de palabras para insights de clientes en canales digitales | Python · NLTK · NetworkX |
+| 05 | [data-utilities](#) | Librería de utilidades para análisis y preparación de datos reutilizable en proyectos de riesgo | Python · Jupyter |
 
 > Los links se actualizarán conforme se publique cada repositorio.
 
