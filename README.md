@@ -20,7 +20,7 @@ Este portafolio reúne proyectos end-to-end que reflejan mi enfoque: calidad de 
 | 01 | [eda-pipeline](https://github.com/evelyncabrera-pe/eda-pipeline) | Pipeline modular para diagnóstico, limpieza y preparación de datos bancarios, con enfoque en calidad y trazabilidad | Python · Pandas · Matplotlib |
 | 02 | [credit-risk-score](https://github.com/evelyncabrera-pe/credit-risk-score) | Modelo predictivo de score de morosidad con segmentación y asignación de estrategias de riesgo | Python · Scikit-learn · SQL |
 | 03 | [kpi-dashboard](https://github.com/evelyncabrera-pe/kpi-dashboard) | Dashboard ejecutivo para monitoreo de KPIs de riesgo y desempeño del modelo | Looker Studio · BigQuery · SQL |
-| 04 | [nlp-sentiment](#) | Análisis de sentimiento y grafo de palabras para insights de clientes en canales digitales | Python · NLTK · NetworkX |
+| 04 | [nlp-sentiment](https://sentimental-analysis-graph.streamlit.app/) | Análisis de sentimiento y grafo de palabras para insights de clientes en canales digitales | Python · NLP · streamlit |
 | 05 | [data-utilities](#) | Librería de utilidades para análisis y preparación de datos reutilizable en proyectos de riesgo | Python · Jupyter |
 
 > Los links se actualizarán conforme se publique cada repositorio.
